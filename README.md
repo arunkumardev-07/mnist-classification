@@ -5,17 +5,21 @@
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
-![image](https://github.com/Sriram8452/mnist-classification/assets/118708032/400b0a5c-fbff-45db-8946-4f18156a17bb)
+Digit classification and to verify the response for scanned handwritten images.
 
+
+The MNIST dataset is a collection of handwritten digits. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. The dataset has a collection of 60,000 handwrittend digits of size 28 X 28. Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
 ## Neural Network Model
 
 ![Deep1](https://github.com/Sriram8452/mnist-classification/assets/118708032/97b64561-dc37-4cf7-b5af-cb07ff471c1a)
 
 ## DESIGN STEPS
-![image](https://github.com/Sriram8452/mnist-classification/assets/118708032/6121d576-6ecc-4fac-9be9-f95af0a9297d)
-
-
-
+## STEP 1:
+Import tensorflow and preprocessing.
+## STEP 2:
+Build a CNN model.
+# STEP 3:
+Compile and fit the model and then predict.
 
 ## PROGRAM:
 
