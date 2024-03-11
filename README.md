@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+![5-5-](https://github.com/Sriram8452/mnist-classification/assets/118708032/7e8a6ba9-beb5-4914-87ad-355a53d01203)# Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
@@ -105,23 +105,30 @@ x_single_prediction = np.argmax(
      axis=1)
 print(x_single_prediction)
 ```
-## OUTPUT
+## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![9-9-](https://github.com/Sriram8452/mnist-classification/assets/118708032/43d595bd-492e-4c3f-a456-b4066df6e2a5)
+![8-8-](https://github.com/Sriram8452/mnist-classification/assets/118708032/818f532d-2d5e-45b1-a462-c59110c52ab6)
+
+
 
 ### Classification Report
 
-Include Classification Report here
+![7-7-](https://github.com/Sriram8452/mnist-classification/assets/118708032/216abd17-1760-4193-bc08-9d20cdffb987)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![6-6-](https://github.com/Sriram8452/mnist-classification/assets/118708032/63089fd9-b12f-46e7-a68f-49b2fa2b0f01)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![5-5-](https://github.com/Sriram8452/mnist-classification/assets/118708032/5f1fd8ca-cad7-4ab3-9d01-43388c45e023)
+
 
 ## RESULT
-Include your result here.
+A Convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
+
