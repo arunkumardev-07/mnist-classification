@@ -1,4 +1,4 @@
-![5-5-](https://github.com/Sriram8452/mnist-classification/assets/118708032/7e8a6ba9-beb5-4914-87ad-355a53d01203)# Convolutional Deep Neural Network for Digit Classification
+# Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
