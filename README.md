@@ -18,7 +18,7 @@ The MNIST dataset is a collection of handwritten digits. The task is to classify
 Import tensorflow and preprocessing.
 ## STEP 2:
 Build a CNN model.
-# STEP 3:
+## STEP 3:
 Compile and fit the model and then predict.
 
 ## PROGRAM:
