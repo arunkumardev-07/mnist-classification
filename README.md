@@ -127,6 +127,8 @@ print(x_single_prediction)
 ### New Sample Data Prediction
 
 ![5-5-](https://github.com/Sriram8452/mnist-classification/assets/118708032/5f1fd8ca-cad7-4ab3-9d01-43388c45e023)
+![image](https://github.com/Sriram8452/mnist-classification/assets/118708032/62a4b867-b96b-4f26-8263-fe052051a841)
+
 
 
 ## RESULT
