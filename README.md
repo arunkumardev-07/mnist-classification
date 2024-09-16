@@ -11,7 +11,8 @@ Digit classification and to verify the response for scanned handwritten images.
 The MNIST dataset is a collection of handwritten digits. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. The dataset has a collection of 60,000 handwrittend digits of size 28 X 28. Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
 ## Neural Network Model
 
-![Deep1](https://github.com/Sriram8452/mnist-classification/assets/118708032/97b64561-dc37-4cf7-b5af-cb07ff471c1a)
+![nueral network image](https://github.com/user-attachments/assets/f7494538-ad32-4038-8fab-3f8cc541fa0a)
+
 
 ## DESIGN STEPS
 ## STEP 1:
@@ -23,10 +24,10 @@ Compile and fit the model and then predict.
 
 ## PROGRAM:
 
-Name: Sriram G
+Name: Arunkumar.P
 
 
-Register Number: 212222230149
+Register Number: 212222040016
 
 ```
 import numpy as np
@@ -109,25 +110,29 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![9-9-](https://github.com/Sriram8452/mnist-classification/assets/118708032/43d595bd-492e-4c3f-a456-b4066df6e2a5)
-![8-8-](https://github.com/Sriram8452/mnist-classification/assets/118708032/818f532d-2d5e-45b1-a462-c59110c52ab6)
+![dp 1](https://github.com/user-attachments/assets/2d41264c-997a-4b5b-a398-e547fc064fad)
+
+![dp 2](https://github.com/user-attachments/assets/8cb847db-349c-4ae3-a54f-f15eccd11761)
+
 
 
 
 ### Classification Report
 
-![7-7-](https://github.com/Sriram8452/mnist-classification/assets/118708032/216abd17-1760-4193-bc08-9d20cdffb987)
+![class report](https://github.com/user-attachments/assets/a1e3fe39-4066-406a-bc7e-0ec43946a982)
+
 
 
 ### Confusion Matrix
 
-![6-6-](https://github.com/Sriram8452/mnist-classification/assets/118708032/63089fd9-b12f-46e7-a68f-49b2fa2b0f01)
+![conf matrix](https://github.com/user-attachments/assets/8597040a-dbb8-4c6a-8cf8-28e53d718ec6)
+
 
 
 ### New Sample Data Prediction
 
-![5-5-](https://github.com/Sriram8452/mnist-classification/assets/118708032/5f1fd8ca-cad7-4ab3-9d01-43388c45e023)
-![image](https://github.com/Sriram8452/mnist-classification/assets/118708032/62a4b867-b96b-4f26-8263-fe052051a841)
+![download (1)](https://github.com/user-attachments/assets/fc04217f-92fd-45e6-9b52-d66d12dbda27)
+![mnist](https://github.com/user-attachments/assets/5bb9df13-75f8-41e4-887c-6a12fa5767ac)
 
 
 
